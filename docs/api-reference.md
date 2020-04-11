@@ -3,9 +3,9 @@
 There are four API Endpoints that Covindia is providing at the moment:
 
 * `covindia-raw-data`
-* `covindia-history-district-data` (district-date-data)
-* `covindia-present-general-data` (general-data)
-* `covindia-present-state-data` (state-data)
+* `covindia-history-district-data`
+* `covindia-present-general-data`
+* `covindia-present-state-data`
 
 It should be noted that these are all GET requests to be made at:
 
