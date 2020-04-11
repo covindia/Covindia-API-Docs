@@ -1,0 +1,11 @@
+site_name: CovIndia API Reference
+site_description: 'The API Reference of Covindia.com'
+site_author: 'Raghav NS, Covindia'
+repo_url: 'https://github.com/covindia/covindia-bigdatabox'
+nav:
+  - Home: 'index.md'
+  - Documentation Convention: 'documentation-convention.md'
+  - API Reference: 'api-reference.md'
+  - Resources: 'resources.md'
+  - Code Snippets: 'code-snippets.md'
+theme: readthedocs
